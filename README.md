@@ -1,5 +1,7 @@
 # Weather-Dashboard
 
+LINK TO APPLICATION: https://derjbass.github.io/Weather-Dashboard/
+
 The user is shown a blank card with a search bar and button.
 
 ![WD0](https://user-images.githubusercontent.com/104521080/178163309-9050463b-a862-4bed-9990-3dd53efedc2a.PNG)
