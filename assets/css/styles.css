@@ -1,0 +1,55 @@
+p.prevSearched {
+    background-color: rgb(167, 167, 167);
+    color: white;
+    border-radius: 5px;
+    text-align: center;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+}
+
+.form-control {
+    width: auto;
+}
+
+.fiveDWeek {
+    margin: 1%;
+}
+
+.severe {
+    background: red;
+    color: black;
+}
+
+.moderate {
+    background: yellow;
+    color: black;
+}
+
+.low {
+    background: green;
+    color: black;
+}
+
+.fiveDWeek div{
+    margin: 1%;
+    background-color: rgb(38, 32, 71);
+    padding-bottom: 10px;
+    color: white;
+}
+
+p#uvIndex {
+    padding: 5px;
+    border-radius: 5px;
+}
+
+#current-day{
+    border: 1px solid gray;
+    border-radius: 5px;
+    margin-left: 1%;
+}
+
+#split-line{
+    border-bottom: 2px solid gray;
+}
+
+
